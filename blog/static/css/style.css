@@ -1,0 +1,20 @@
+body{
+    background-color: gray !important;
+    padding-bottom: 80px !important;
+}
+.jumbotron h1{
+    padding: 12px !important;
+}
+.jumbotron p{
+    padding: 12px  !important;
+}
+.footer{
+    position: relative !important;
+    bottom: 10px !important;
+}
+
+form.signupform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
